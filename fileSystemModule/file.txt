@@ -1,0 +1,2 @@
+This string will be witten in file.txt file
+This string will append in file.txt
